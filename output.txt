@@ -1,0 +1,750 @@
+event: x= 21 y=130 start=11H00 end=15H00 charaId=Kurt KATANGA (0) type=EVT_CONVERSATION
+  [I]   1/2
+        Mon nom est Kurt, mais vous pou-  
+        vez m'appeler Rambo, comme tout le
+        monde... Alors écoutez bien ce    
+        conseil : Filez ! et vite ! avant 
+        que je vous vire ! Ici c'est une  
+        propriété privée. M. Carrington a 
+        horreur des importuns.
+event: x= 21 y=130 start=15H00 end=19H00 charaId=Kurt KATANGA (0) type=EVT_CONVERSATION
+  [I]   2/2
+        Encore vous !!! Vous etes tétu !  
+        Je vous ai dit de ne pas roder sur
+        Bréchou... Ah, vous voulez voir M.
+        Carrington ! Que ne le disiez vous
+        plus tot ? Qui dois-je annoncer ?
+event: x= 21 y=130 start=15H00 end=19H00 charaId=0 type=EVT_ACTION
+  [A]   Action n°6 [Passer le garde
+        (à Bréchou)]
+event: x=111 y=134 start=11H00 end=12H32 charaId=Archibald MACOMBER - Banquier (27) type=EVT_CONVERSATION
+  [I]   1/1
+        Vous avez devant vous le banquier 
+        le plus tranquille de la terre !  
+        Ici pas de risque de cambriolage. 
+        En 20 ans, le seul crime sur l'ile
+        a été le vol d'une plaquette de   
+        chocolat à l'épicerie... Ici per- 
+        sonne ne ferme des portes à clef. 
+        Moi, je ferme tout de meme le     
+        coffre-fort !
+event: x=111 y=134 start=14H00 end=17H00 charaId=Archibald MACOMBER - Banquier (27) type=EVT_CONVERSATION
+  [I]   1/1
+        Vous avez devant vous le banquier 
+        le plus tranquille de la terre !  
+        Ici pas de risque de cambriolage. 
+        En 20 ans, le seul crime sur l'ile
+        a été le vol d'une plaquette de   
+        chocolat à l'épicerie... Ici per- 
+        sonne ne ferme des portes à clef. 
+        Moi, je ferme tout de meme le     
+        coffre-fort !
+event: x=111 y=134 start=14H00 end=17H00 charaId=27 type=EVT_ACTION
+  [A]   Action n°7 [Ouvrir le coffre]
+event: x= 98 y=138 start=11H00 end=19H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Cabine téléphonique
+event: x= 98 y=138 start=11H00 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   20 pfennig *5
+event: x=100 y=140 start=11H00 end=14H00 charaId=John BREADLOW - Boulanger (29) type=EVT_CONVERSATION
+  [I]   1/1
+        Il ne se passe jamais rien ici... 
+        C'est l'endroit le plus paisible  
+        du monde : jamais de vol... enfin 
+        presque. Tenez, ce matin le pas-  
+        teur... Je crois plutot à une far-
+        ce de gamin ; encore un coup de   
+        Johnny si ca se trouve...
+event: x= 86 y=168 start=13H00 end=19H00 charaId=Peter MICHAEL - Cabman (28) type=EVT_CONVERSATION
+  [I]   1/1
+        Non, je ne fais plus de tour en   
+        calèche. Je sors juste le cheval  
+        pour le promener. Ce matin j'ai vu
+        deux choses étranges ! D'abord un 
+        peu avant 7h, j'étais sorti ramas-
+        ser de l'herbe pour les lapins et 
+        un homme masqué est passé en vélo!
+        Je vous jure que je ne bois pas ! 
+        Ensuite vers l'heure du déjeuner, 
+        en revenant de Little Sark, j'ai  
+        vu Gwendal. Il hurlait à tue-tete:
+        'L'Ange a frappé ! Il a frappé !'.
+        Je crois que c'est lui qui est    
+        frappé !!!
+event: x= 86 y=168 start=13H00 end=19H00 charaId=Peter MICHAEL - Cabman (28) type=EVT_OBJECT
+  [F]   *23
+event: x= 58 y= 66 start=14H08 end=19H00 charaId=Elisabeth GUERET - Hotelière (2) type=EVT_DESCRIPTION
+  [R]   On vous a téléphoné à 14H
+event: x= 58 y= 66 start=11H00 end=19H00 charaId=Elisabeth GUERET - Hotelière (2) type=EVT_CONVERSATION
+  [I]   1/1
+        Le jeune couple qui réside ici me 
+        parait bien mal parti ; ils se    
+        sont disputés à plusieurs reprises
+        et maintenant font chambre à part.
+        J'ai un autre client : M. Pierre  
+        Lefebvre, un botaniste francais - 
+        il est allé pique-niquer à Vénus  
+        Pool. Cette boulette de papier ?  
+        Je ne sais pas ce que c'est... Ah!
+        oui, je me rappelle c'est un pa-
+        pier que j'ai ramassé dans le cou-
+        loir de l'annexe. Ca me revient : 
+        je l'ai trouvé à 7H, or 10mn avant
+        j'étais passée et il n'était pas  
+        là, je suis formelle sur ce point.
+        
+        Vous repartez déjà... Faites bien 
+        attention en passant à la Coupée, 
+        c'est extrèmement dangereux, il y 
+        a déjà eu des accidents !
+event: x= 58 y= 66 start=11H00 end=19H00 charaId=Elisabeth GUERET - Hotelière (2) type=EVT_OBJECT
+  [F]   *27
+event: x= 58 y= 66 start=14H00 end=14H08 charaId=2 type=EVT_ACTION
+  [A]   Action n°4 [Répondre au téléphone]
+event: x= 61 y= 66 start=11H00 end=19H00 charaId=Gilles MARCHAND (6) type=EVT_CONVERSATION
+  [I]   1/1
+        Ma femme ? Justement, j'aimerais  
+        bien savoir ou elle est ma femme !
+        Si ce salopard de Dickson n'était 
+        pas en prison, je croirais qu'elle
+        est avec lui. Il ne perd rien pour
+        attendre !
+        Le cyanox ??? Euh, je suis chimis-
+        te et c'est un échantillon. Cela  
+        n'a rien d'étonnant mais je recon-
+        nais que c'est un poison extrème- 
+        ment violent !
+event: x= 61 y= 66 start=11H00 end=19H00 charaId=Gilles MARCHAND (6) type=EVT_OBJECT
+  [F]   Flacon de cyanox, traité de chimie
+event: x= 69 y= 54 start=11H24 end=15H00 charaId=Pierre LEFEVRE (24) type=EVT_CONVERSATION
+  [I]   1/1
+        Vous m'avez fait peur ! Ce coin   
+        est si tranquille... Comme vous   
+        voyez, j'herborise. Regardez ce   
+        Leontodon Hisidus ou cet Ulex Eu- 
+        ropeaus (gare aux piquants...)et  
+        ce Lotus Corniculatus... Ici on   
+        l'appelle Bird's foot trefoil.    
+        Joli nom !                        
+        Je suis en train de terminer une  
+        thèse en Sorbonne :'Particularisme
+        de la flore dans les Iles Anglo-  
+        Normandes'. Passionnant ! En effet
+        certaines plantes n'y poussent    
+        pas, d'autres ont été introduites 
+        comme ce marronnier à La Sablonni-
+        ère qui vient du Chateau de Ver-  
+        sailles...  Un jour, il sera aussi
+        grand que le Quercus gigantus     
+        qu'on peut voir vers la prison !
+event: x= 61 y= 65 start=11H00 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   Un herbier
+event: x= 62 y= 65 start=11H00 end=19H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   La chambre est vide
+event: x= 62 y= 65 start=11H00 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   Un bas
+event: x= 63 y= 60 start=11H00 end=15H00 charaId=Jimmy Mac CAHAN (5) type=EVT_CONVERSATION
+  [I]   1/2
+        Nous étions surement les plus pro-
+        ches amis de Michael et de son    
+        fils. Ce matin, Dieter est arrivé 
+        vers 10 h. Il était très affecté  
+        et n'est pas resté. Il devait ren-
+        contrer un inconnu qui avait des  
+        révélations à lui faire sur la    
+        mort de son père.
+        Nous ne l'avons pas revu depuis !
+event: x= 63 y= 60 start=15H00 end=19H00 charaId=Jimmy Mac CAHAN (5) type=EVT_CONVERSATION
+  [I]   2/2
+        Quelle histoire ! Dieter s'est    
+        suicidé ! ce n'est pas étonnant...
+        il était très lié à son père. Nous
+        pouvons vous le dire maintenant   
+        mais il était revenu sur l'ile à  
+        sa demande car il se sentait mena-
+        cé. Il lui avait confié ce parchem
+        in et Dieter nous l'avais remis   
+        'Ici, il sera à l'abri...'. Vous  
+        devriez absolument rencontrer le
+        savant. Si vous voulez revenir,   
+        passez après 18h, j'aurai rentré  
+        le taureau, on sera tranquille.
+event: x= 63 y= 60 start=15H00 end=19H00 charaId=Jimmy Mac CAHAN (5) type=EVT_OBJECT
+  [F]   *26
+event: x= 90 y=140 start=16H00 end=17H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   En ce temps là, Jésus dit à ses   
+        disciples: SEMPER CAVO..
+event: x= 90 y=140 start=11H00 end=16H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   PROCHAIN OFFICE A 16h
+event: x= 90 y=140 start=17H00 end=19H00 charaId=Abbé LEBLOND (30) type=EVT_CONVERSATION
+  [I]   1/1
+        Excusez-moi, mais j'arrive de     
+        l'office. Ce pauvre M. Dickson... 
+        Je voulais aller le voir ce soir  
+        car j'ai découvert dans les archi-
+        ves du presbytère un papier qui   
+        aurait pu l'interesser : je pense 
+        qu'il s'agit de Sanskrit...
+event: x= 90 y=140 start=17H00 end=19H00 charaId=Abbé LEBLOND (30) type=EVT_OBJECT
+  [F]   *6
+event: x=140 y=145 start=11H00 end=13H16 charaId=35 type=EVT_OBJECT
+  [F]   Un radar, *12
+event: x=140 y=145 start=13H16 end=15H00 charaId=35 type=EVT_OBJECT
+  [F]   Un radar, une radio FM règlée sur 
+        99.9, *12 *13
+event: x= 50 y=173 start=17H40 end=19H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Des débris flottent, l'un d'eux es
+        t marqué ISA
+event: x= 82 y= 50 start=11H00 end=12H32 charaId=35 type=EVT_OBJECT
+  [F]   Une malle, un transistor FM règlé 
+        sur 99.9, des comprimés NEUROFIX, 
+        une horloge et *15 *16 *18
+event: x= 82 y= 50 start=12H00 end=12H32 charaId=Eléanor GWENDAL (32) type=EVT_CONVERSATION
+  [I]   1/1
+        Le Trésor ! Vous vous intéressez  
+        au Trésor ! Méfiez-vous... Il vous
+        punira comme Il punit les icono-  
+        clastes ! Ceux qui veulent s'atta-
+        quer à Son Secret et à Ses servi- 
+        teurs... L'Ange de l'Apocalypse   
+        sait tout, voit tout, entend tout.
+        Craignez Son courroux... et mélez 
+        vous de vos affaires !
+event: x= 82 y= 50 start=12H32 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   Une malle, des comprimés NEUROFIX,
+        une horloge et *15 *16 *18
+event: x= 82 y= 50 start=12H32 end=19H00 charaId=35 type=EVT_ACTION
+  [A]   Action n°5 [Etac]
+event: x=115 y=128 start=11H00 end=19H00 charaId=Henri LETELLIER (15) type=EVT_CONVERSATION
+  [I]   1/1
+        Vous etes journaliste ? Enquéteur?
+         Ahhh ! Moi, je vis ici bien tran-
+        quillement. J'ai quitté Saint-Malo
+        il y a deux ans à la mort de ma 
+        femme. Comme dit le grand druide  
+        Eugarigaal 'Faut pas s'attacher !'
+        N'empeche, le gamin est un peu li-
+        vré à lui-meme, il accumule bétise
+        sur bétise. Il a construit une ca-
+        bane du coté de Dixcart Bay, vous 
+        le trouverez surement la-bas!
+        Un petit calva ? Deux ! Vous avez 
+        raison, profitez de la détaxe...
+        Le Thanatox ??? Je ne me souvenais
+        meme pas que j'avais ca. C'est    
+        Eleanor qui l'a sorti d'un placard
+        l'autre jour... C'est ma belle-   
+        mère qui m'avait donné ca... On ne
+        peut meme plus lire l'étiquette...
+event: x=115 y=128 start=11H00 end=19H00 charaId=Henri LETELLIER (15) type=EVT_OBJECT
+  [F]   Une boite de Thanatox
+event: x= 64 y=116 start=11H00 end=19H00 charaId=le Révérend GREENHOW (11) type=EVT_CONVERSATION
+  [I]   1/1
+        Notre ile est bien bouleversée en 
+        ce moment... Sans parler de cette 
+        histoire de meurtre, ce matin, je 
+        me suis fais volé ma bicyclette,  
+        le temps d'aller chercher des     
+        croissants chez le boulanger (à   
+        coté de la cabine téléphonique).  
+        J'ai du y aller à pied. En reve-  
+        nant mon vélo était revenu lui    
+        aussi ! je n'ai pas eu la berlue !
+        D'autre part, j'ai croisé un des  
+        gardes du corps de M. Carrington. 
+        Quel mauvais coup avait-il bien pu
+        préparer ?
+event: x= 93 y=164 start=11H00 end=19H00 charaId=Cathy DENNIS (18) type=EVT_CONVERSATION
+  [I]   1/1
+        Un soupirant à mon age... Vous n'y
+        pensez pas ! Si seulement... Ah ! 
+        jeunesse... Je ne fais plus ce que
+        je veux. Je voulais aller à Vèpres
+        à 16h mais ce sera pour une autre 
+        fois... Je ne sors plus beaucoup. 
+        Ce n'est pas comme le Jean ! On   
+        est 'conscrit' mais il est encore 
+        vif, lui. Il passe ses journées à 
+        La Grune... Vous devriez lui poser
+        des questions.
+event: x= 69 y=195 start=11H00 end=19H00 charaId=Jean BERNEL (8) type=EVT_CONVERSATION
+  [I]   1/1
+        Silence, vous effrayez le poisson!
+        La peche au bord n'est déjà pas   
+        facile - je ne parle pas de ramas-
+        ser les ormeaux  !
+        Avec tous ces morts, ca ne m'éton-
+        nerait pas que la Grande Garce ap-
+        paraisse à la Seigneurie !
+        A c'qui parait elle se manifeste  
+        hexactement à l'heure du thé !
+event: x=131 y=148 start=11H00 end=19H00 charaId=Alan PREVENT (21) type=EVT_CONVERSATION
+  [I]   1/1
+        J'ai pris mon service à 6h00. Vers
+        8h30, j'ai vu passer un superbe   
+        yacht qui venait du Nord-Ouest.   
+        Avec la marée basse, ils auraient 
+        bien pu rester accrocher aux ré-  
+        cifs... Je sais bien que les ob-  
+        stacles ne doivent pas etre une   
+        excuse mais un défi... mais quand 
+        meme !
+event: x=131 y=148 start=11H00 end=19H00 charaId=Alan PREVENT (21) type=EVT_OBJECT
+  [F]   *4
+event: x= 83 y=148 start=11H00 end=19H00 charaId=Luigi BERTINI (19) type=EVT_CONVERSATION
+  [I]   1/1
+        Zé mé souis réfoudgié ici pour la 
+        tranqouillité... c'est réoussi !  
+        Yé déjà assez d'ennuis avec la    
+        Cosa Nostra. Ses toueurs sont à ma
+        récherche...
+event: x= 83 y=148 start=11H00 end=19H00 charaId=Luigi BERTINI (19) type=EVT_OBJECT
+  [F]   TECNICA E PROGRAMAZIONE DI Z80
+event: x=136 y=137 start=11H00 end=11H08 charaId=Charles LONJARET (31) type=EVT_CONVERSATION
+  [I]   1/2
+        BONJOUR ! Nous vous attendions. Il
+        se passe des choses sur notre ile,
+        mais le mieux serait que vous vo- 
+        yiez mon frère, le Connétable, le 
+        plus rapidement possible. Il habi-
+        te à coté de l'église.
+event: x=137 y=134 start=11H08 end=14H00 charaId=Charles LONJARET (31) type=EVT_CONVERSATION
+  [I]   2/2
+        Le port est bien calme en ce mo-  
+        ment mais, en saison, vous verriez
+        le trafic ! Sark est un but de    
+        croisière très sympathique pour   
+        les plaisanciers francais et an-  
+        glais. En plus du port, nous avons
+        des criques bien abritées comme   
+        Havre Gosselin ou Dixcart Bay.    
+        Ce matin, j'ai enregistré l'arri- 
+        vée d'un superbe voilier allemand 
+        à 8h40. Un sacré équipage...      
+        Manoeuvrer ca à trois !
+event: x=138 y=127 start=11H00 end=17H00 charaId=Victor GILLIAT - Marin-pècheur (14) type=EVT_CONVERSATION
+  [I]   1/1
+        Ce jour avait à peine 7 heures
+        Que je fus radarisé
+        Je le sais par le testeur
+        Que j'ai sur mon voilier
+        Quand je passe près de l'Etac
+        En général il se détraque
+        Un jour en voulant y accoster
+        Au ponton Sud
+        Il s'est complètement déglingué
+        Le coup fut rude
+event: x=138 y=127 start=11H00 end=17H00 charaId=Victor GILLIAT - Marin-pècheur (14) type=EVT_OBJECT
+  [F]   des pinces à vélo
+event: x=116 y=148 start=11H00 end=19H00 charaId=Mrs SIMPSON (22) type=EVT_CONVERSATION
+  [I]   1/1
+        J'ai servi son breakfast à Mr     
+        Dieter à 7h30 et il est parti chez
+        son père un peu avant 8h. Le mal- 
+        heureux est revenu tout essoufflé 
+        meme pas un quart d'heure plus    
+        tard. Son père venait d'etre assas
+        siné. Quelle histoire ! C'est ter-
+        rible ! Mr Dieter était effondré, 
+        il est parti... peut-etre chez les
+        Mac Cahan ?
+event: x=114 y=143 start=14H00 end=19H00 charaId=Patricia LONJARET (3) type=EVT_CONVERSATION
+  [I]   1/1
+        A cette saison, c'est calme, il   
+        n'y a pas grand monde, on retrouve
+        ses habitudes. Ce chenapan de
+        Johnny a tout de meme réussi à ex-
+        torquer quelques sous à des tou-  
+        ristes. Il a essayé de payer ses  
+        bonbons avec des pfennigs ! Tel   
+        père, tel fils...
+        Les touristes sont passés tout à  
+        l'heure pour acheter du gaz pour  
+        leur bateau. Ils ne sont pas pret 
+        de récupérer les consignes des    
+        bouteilles !
+event: x=109 y=137 start=11H00 end=19H00 charaId=Jack MICHAEL (12) type=EVT_CONVERSATION
+  [I]   1/1
+        On n'est plus tranquille meme hors
+        saison maintenant... Ce matin,    
+        j'ai été réveillé à 9h par une    
+        minette qui voulait absolument un 
+        vélo. Et encore avec un porte-    
+        bagages ! Faut pas venir à Sercq  
+        quand on est pressé comme ca...
+        Les vélos sont à coté, sur la rue.
+        Si vous en avez besoin, ne vous   
+        génez pas. Quand vous le posez    
+        quelque part, retenez bien l'en-  
+        droit ! Les maisons et les chemins
+        se ressemblent tellement...
+event: x=106 y=104 start=11H00 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   Un couteau suisse, une combinaison
+        en néoprène tachée de sang, *25
+event: x=106 y=104 start=14H00 end=17H00 charaId=Johnny LETELLIER - Ecolier (9) type=EVT_CONVERSATION
+  [I]   1/1
+        Décidément il y a de plus en plus 
+        de monde à ma cabane secrète... Je
+        vais etre obligé de changer de QG.
+        Non, je ne connais pas les gens   
+        de l'hotel qui sont arrivés ce ma-
+        tin. Le fou m'a donné la pièce    
+        pour leur dire de retourner à leur
+        bateau de toute urgence. D'habitu-
+        de, il vient manger avec mon père 
+        mais aujourd'hui, il n'est pas    
+        venu.
+        Le vélo du Pasteur, c'est pas moi,
+        je le jure ! D'abord ce boulanger 
+        c'est rien qu'un menteur...
+        La combinaison, je l'ai trouvé à  
+        Pilcher Monument ce matin, c'est  
+        une prise de guerre ! et l'Opinel 
+        c'est un cadeau de ma grand-mère  
+        Tricot !
+event: x= 65 y= 54 start=14H00 end=15H00 charaId=Catherine MARCHAND (23) type=EVT_OBJECT
+  [F]   Des mots croisés, *22
+event: x= 65 y= 54 start=14H00 end=15H00 charaId=Catherine MARCHAND (23) type=EVT_CONVERSATION
+  [I]   Johnny ! mort !! Ah, ce n'est pas 
+        possible... je l'attendais !      
+        C'est mon mari ! J'en suis sure...
+        il s'est vengé, le monstre ! Ah!
+                                          
+        (Respectons la douleur de Madame  
+        Catherine Marchand - Elle n'en    
+        dira pas plus...)
+event: x=116 y=128 start=11H00 end=16H00 charaId=Suzanne DELMARE - Journaliste (13) type=EVT_CONVERSATION
+  [I]   1/2
+        Le patron joue bien, mais il pour-
+        rait changer de rengaine...
+        Je suis la journaliste du Sark's  
+        Evening Standard... et je connais 
+        bien les histoires de l'ile.
+        Sercq est un havre de paix mais   
+        tous les 20 ou 30 ans le 'Secret  
+        des Moines' revient à l'ordre du  
+        jour...
+        La dernière fois c'était pendant  
+        la guerre. Un jeune officier qui  
+        connaissait la présence du trésor 
+        s'était fait catapulter à Sercq ! 
+        Comme place stratégique, on fait  
+        mieux... mais il s'agissait sur-  
+        tout de chercher l'or.            
+        Backlinder est arrivée à l'époque 
+        simple soldat, blessé, évacué du  
+        front russe. Il a été fait prison-
+        nier à la fin de la guerre mais   
+        ensuite est revenu sur l'ile. Il  
+        a été parfaitement intégré. Lui   
+        aussi s'est intéressé au 'Secret  
+        des Moines' mais ca lui a passé.
+        Je dois partir, mais repassez me  
+        voir à la maison...
+event: x= 96 y=124 start=16H00 end=19H00 charaId=Suzanne DELMARE - Journaliste (13) type=EVT_CONVERSATION
+  [I]   2/2
+        Pour résumer la situation voici un
+        article écrit il y a deux mois : 
+        'Nous avons déjà parlé du litige  
+        qui oppose Mr Carrington et Mr    
+        Backlinder, enfant adoptif 
+        et ardent défenseur des traditions
+        de Sark qui s'insurge contre les  
+        'passe-droit' dont bénéficie le   
+        richissime propriétaire de Bré-   
+        chou. Alors que les voitures sont 
+        interdites, il utilise un
+        hélicoptère (!) et une auto pour  
+        se rendre de la maison à l'héli-  
+        port ! 350 mètres... Jusqu'à pré- 
+        sent, seule la Reine-Mère avait   
+        été autorisée à le faire.
+        Un nouveau pas vient d'etre fran- 
+        chi par Mr Backlinder qui - devant
+        deux témoins - a crié 'Haro' à    
+        l'encontre de Mr Carrington.
+        La 'Chief Pleas' devra sans doute 
+        se réunir exceptionnellement pour 
+        étudier l'affaire...'
+        Vous savez, dans une petite ile - 
+        avec 500 habitants seulement - un 
+        tel affrontement marque d'autant  
+        plus que Mr Carrington est améri- 
+        cain et que ses gorilles (et leurs
+        méthodes) ne sont pas très bien   
+        percus. C'est vrai ! On n'est pas 
+        à Chicago...
+event: x= 98 y=135 start=11H00 end=11H16 charaId=Georges DELMARE - Vice connétable (16) type=EVT_CONVERSATION
+  [I]   1/2
+        La prison n'a pas servi depuis 20 
+        ans mais aujourd'hui, elle est    
+        bien utile ! Je suis désolé, pas  
+        de visite au prisonnier, à moins  
+        que... Vous venez de la part de   
+        qui ?
+event: x= 98 y=135 start=11H00 end=11H16 charaId=16 type=EVT_ACTION
+  [A]   Action n°1 [Voir le prisonnier
+        (vivant)]
+event: x= 98 y=135 start=11H16 end=14H00 charaId=Georges DELMARE - Vice connétable (16) type=EVT_CONVERSATION
+  [I]   2/2
+        Vous arrivez trop tard... Nous ve-
+        nons de découvrir le prisonnier   
+        mort ! C'est incompréhensible...  
+        Personne ne l'a approché, il n'y a
+        pas de traces d'effraction !
+        C'est moi qui ai trouvé l'arme qui
+        a tué Backlinder. Elle était dans 
+        un sac à coté de lui. Il dormait, 
+        je l'ai arrété sans difficulté.
+        Avec ce deuxième cadavre, le      
+        Connétable va avoir un sacré      
+        rapport à faire au Seigneur, à 6h!
+        Voir le corps ? De qui avez-vous  
+        l'autorisation ?
+event: x= 98 y=135 start=11H16 end=14H00 charaId=16 type=EVT_ACTION
+  [A]   Action n°2 [Voir le prisonnier
+        (mort)]
+event: x=112 y=149 start=14H16 end=15H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Il y a un pudding sur le feu
+event: x=112 y=149 start=15H00 end=19H00 charaId=Edward SPENCER (17) type=EVT_CONVERSATION
+  [I]   1/1
+        Affirmatif !
+        Je suis allé avec mon oncle pour  
+        le constat de la mort de Monsieur 
+        Backlinder. Je peux vous en parler
+        c'est du travail de professionnel,
+        nageur de combat ou commando :    
+        propre, net et sans bavure ! Tu   
+        tues, tu ranges ! J'ai fait la    
+        guerre des Malouines... Croyez-moi
+        je sais de quoi je parle !
+event: x= 93 y=141 start=11H00 end=12H24 charaId=Arthur LONJARET - Connétable (10) type=EVT_CONVERSATION
+  [I]   1/3
+        Enfin vous voilà ! Sachant que    
+        vous étiez à Guernesey, nous n'a- 
+        vons pas hésité à vous appeler    
+        bien que vous deviez repartir ce  
+        soir meme...
+        Ce matin, j'ai recu un coup de fil
+        de Mrs Simpson qui tient un Bed   
+        and Breakfast à La Collinette. Son
+        locataire avait découvert le ca-  
+        davre de son père à Clos du Puits.
+        Nous avons arrété le coupable à la
+        suite d'un coup de téléphone ano- 
+        nyme. Mais pourquoi a-t-il agi de 
+        la sorte ? Vous pourrez peut-etre 
+        l'expliquer... Allez l'interroger!
+        Pour faire ouvrir la cellule,     
+        dites mon prénom au Vingtennier.
+event: x= 49 y= 60 start=11H00 end=16H00 charaId=35 type=EVT_OBJECT
+  [F]   Un pendu
+event: x= 49 y= 60 start=15H00 end=16H00 charaId=Arthur LONJARET - Connétable (10) type=EVT_CONVERSATION
+  [I]   2/3
+        La série continue ! Maintenant un 
+        suicide ! C'est incroyable... Nous
+        avons redescendu le corps mais    
+        j'ai fait un cliché auparavant.
+        La photo sera developpée dans une 
+        heure ou deux...
+event: x=109 y=122 start=11H00 end=14H00 charaId=Louise MICHAEL - Hotelière (34) type=EVT_CONVERSATION
+  [I]   1/2
+        M. Dickson ? Il est sorti très tot
+        ce matin. A 6h, quand je me suis  
+        levée il n'était plus dans sa     
+        chambre et il n'est revenu qu'à   
+        9h15. Un drole de client pas sou- 
+        vent là. Depuis une semaine il    
+        mangeait au Pub.
+        Des Allemands ? ca, oui, j'en ai  
+        vu. Il y en a trois qui m'ont ré- 
+        servé des chambres pour la semai- 
+        ne. Deux messieurs et une dame qui
+        est arrivée 35 minutes après eux, 
+        vers 10 heures, puis est repartie 
+        un quart d'heure après.
+event: x=109 y=122 start=14H00 end=19H00 charaId=Louise MICHAEL - Hotelière (34) type=EVT_CONVERSATION
+  [I]   2/2
+        Mes clients allemands ont mangé   
+        vers midi et demi. Ils étaient en 
+        grande discussion mais je n'ai    
+        rien compris...
+        Quand le petit Letellier est venu 
+        leur parler, ca les a stoppé net  
+        et ils sont partis aussitot après 
+        manger.
+event: x=109 y=121 start=13H00 end=14H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Des clients mangent, ne les dérang
+        ez pas
+event: x=136 y=137 start=14H24 end=15H00 charaId=Graf Von DRUBEN (33) type=EVT_CONVERSATION
+  [I]   2/2
+        Ca suffit ! Sale petit fouineur ! 
+        Laissez-nous tranquille. Nous de- 
+        fons repartir. Nous sommes des    
+        touristes honnetes ! Bonchour     
+        l'accueil...
+event: x=136 y=137 start=14H24 end=15H00 charaId=Graf Von DRUBEN (33) type=EVT_OBJECT
+  [F]   *10 *1
+event: x=136 y=136 start=14H24 end=15H00 charaId=Karl KOMENT (1) type=EVT_DESCRIPTION
+  [R]    
+event: x=136 y=135 start=14H24 end=15H00 charaId=Eva SCHMIDT (25) type=EVT_DESCRIPTION
+  [R]    
+event: x=110 y=121 start=11H00 end=13H00 charaId=Karl KOMENT (1) type=EVT_OBJECT
+  [F]   *19
+event: x=110 y=121 start=11H00 end=13H00 charaId=Karl KOMENT (1) type=EVT_CONVERSATION
+  [I]   1/1
+        Entschuldigung ! Ich spreche kein 
+        Franzosich...
+event: x=111 y=122 start=11H00 end=13H00 charaId=Graf Von DRUBEN (33) type=EVT_CONVERSATION
+  [I]   1/2
+        Ach ! Fous etes enquéteur, sehr   
+        gut ! C'est la première fois que  
+        je fiens à Sark. Nous sommes arri-
+        fés de Saint-Malo ce matin. Nous  
+        afons gagné une heure afec le dé- 
+        calage horaire. Ma grand-mère
+        Lundwall était amoureuse de cette 
+        ile. Moi-meme che suis sous le    
+        charme, j'ai d'ailleurs composé ce
+        très choli poème acrostiche :
+        Silence, oui
+        Essence, non
+        Repos, oui
+        Chrono, non
+        Quelle est cette ile merveilleuse?
+        
+        Kolossal, nein ?
+        Guten Tag... Che ne fous retiens  
+        pas !
+event: x=111 y=122 start=11H00 end=13H00 charaId=Graf Von DRUBEN (33) type=EVT_OBJECT
+  [F]   *10
+event: x=110 y=122 start=11H00 end=13H00 charaId=Eva SCHMIDT (25) type=EVT_CONVERSATION
+  [I]   1/1
+        C'est toi Otto ?                  
+                                          
+                                          
+                                          
+                                          
+                                     
+        Non... Un instant, je me rhabille!
+                                          
+        Vous voulez m'interroger ! Eh bien
+        ce matin j'ai fait un grand tour  
+        en vélo. J'aime le caractère sau- 
+        vage de cette ile, sa fraicheur,  
+        sa pureté. C'est comme une jeune  
+        fille encore vierge. Mon romantis-
+        me naturel revient au galop devant
+        le merveilleux spectacle de la na-
+        ture. Je suis une jeune femme très
+        sensible comme vous pouvez voir.  
+        Un rien m'émeut ! C'est ce que me 
+        disent mes collègues - je travail-
+        le comme hotesse d'accueil à Ham- 
+        bourg dans le quartier St Paoli.  
+        C'est là que j'ai connu mes amis. 
+        Le patron a voulu venir d'urgence.
+        Il prétendait qu'il allait enfin  
+        faire fortune car l'information   
+        qui lui manquait avait été décou- 
+        verte. Je ne comprends rien à     
+        toutes ces histoires... et je ne  
+        devrais rien vous dire !
+event: x=110 y=122 start=11H00 end=13H00 charaId=Eva SCHMIDT (25) type=EVT_OBJECT
+  [F]   Un sac de sport, *20
+event: x=111 y=121 start=11H00 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   Un sac, des lettres transfert, un 
+        fouet, un traité d'archéologie, *9
+        *17 *24
+event: x= 79 y= 89 start=11H00 end=16H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Un cadavre sur la grève
+event: x= 79 y= 88 start=11H00 end=16H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Un cadavre sur la grève
+event: x= 80 y= 89 start=11H00 end=16H00 charaId=36 type=EVT_OBJECT
+  [F]   Sur son bras, une gourmette gravée
+        'OTTO' et un tatouage: 'CAMERONE'.
+        Dans sa poche un mouchoir de ba-  
+        tiste maculé de noir, chiffré ES, 
+        *11
+event: x= 80 y= 89 start=11H00 end=16H00 charaId=36 type=EVT_DESCRIPTION
+  [R]   Un cadavre
+event: x=101 y=161 start=11H00 end=15H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Station hertzienne
+event: x=101 y=161 start=15H00 end=19H00 charaId=Roland VERECHE (26) type=EVT_CONVERSATION
+  [I]   1/1
+        Je suis le responsable de la sta- 
+        tion hertzienne de British Tele-  
+        com. Pour votre enquete, je peux  
+        vous dire qu'il y a des gens qui  
+        utilisent la Bande FM sans autori-
+        sation. Tenez encore à midi, j'ai 
+        été brouillé sur ma fréquence de  
+        veille : 99.9 MHz.
+event: x=101 y=161 start=15H00 end=19H00 charaId=26 type=EVT_ACTION
+  [A]   Action n°10 [Bips à la station
+        hertzienne]
+event: x= 90 y=131 start=11H00 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   *8
+event: x= 90 y=131 start=16H24 end=19H00 charaId=Harry BENSON - Docteur (4) type=EVT_CONVERSATION
+  [I]   2/2
+        Excusez mon retard !
+        Reprenons les cas dans l'ordre :  
+        - Mr Backlinder a été tué d'un    
+        coup de couteau trés violent. La  
+        mort a été instantanée...         
+        - Après analyse du corps de Mr    
+        Dickson, il apparait clairement   
+        qu'il a été victime d'un empoison-
+        nement lent (à base de raticide,  
+        sans doute). Mais il a fallu en   
+        ingérer de grosses doses...
+        -Quant à Mr Bachlinder, il ne fait
+        aucun doute qu'il est mort étran- 
+        glé. la mort a eu lieu entre 10h30
+        et 11h
+        La série va-t-elle continuer      
+        longtemps ?
+event: x= 90 y=131 start=11H00 end=16H24 charaId=35 type=EVT_DESCRIPTION
+  [R]   CABINET BENSON
+event: x= 82 y=153 start=17H00 end=17H24 charaId=35 type=EVT_DESCRIPTION
+  [R]   Sur le mur, une tache en forme de 
+        visage..
+event: x= 82 y=153 start=17H00 end=17H24 charaId=35 type=EVT_ACTION
+  [A]   Action n°3 [Fantôme]
+event: x= 83 y=152 start=18H00 end=19H00 charaId=Arthur LONJARET - Connétable (10) type=EVT_CONVERSATION
+  [I]   3/3
+        Tenez, voici le cliché pris cet   
+        après-midi. Il y a quelque chose  
+        qui me chiffonne !
+        Alors ? Avez-vous avancé dans     
+        votre enquete ? Je l'espère car   
+        il ne vous reste plus très long-  
+        temps !
+        Avez-vous eu les confidences de la
+        fille du 1er Seigneur de Sark ?   
+        Enfin, je ne crois pas beaucoup   
+        à ces balivernes...
+event: x= 83 y=152 start=18H00 end=19H00 charaId=Arthur LONJARET - Connétable (10) type=EVT_OBJECT
+  [F]   *2
+event: x= 57 y=122 start=11H00 end=14H00 charaId=35 type=EVT_OBJECT
+  [F]   des palmes et un tuba
+event: x=126 y=140 start=11H00 end=14H00 charaId=35 type=EVT_OBJECT
+  [F]   Par terre un réveil cassé marquant
+        7H,au dessus de l'armoire un micro
+        émetteur étiqueté: 87.4, *1 *14
+event: x=126 y=140 start=14H00 end=19H00 charaId=35 type=EVT_OBJECT
+  [F]   Par terre un réveil cassé marquant
+        7H,au dessus de l'armoire un micro
+        émetteur étiqueté: 87.4, *14
+event: x= 65 y= 54 start=11H00 end=14H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Vous ètes sous le dolmen
+event: x= 65 y= 54 start=15H00 end=19H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Vous ètes sous le dolmen
+event: x=100 y=133 start=11H00 end=19H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Il y a un grand chène
+event: x=100 y=133 start=11H00 end=19H00 charaId=35 type=EVT_ACTION
+  [A]   Action n°8 [Trésor]
+event: x= 58 y= 72 start=11H00 end=18H00 charaId=35 type=EVT_DESCRIPTION
+  [R]   Un taureau furieux vous empèche de
+        rentrer dans le champ
+event: x= 58 y= 72 start=18H00 end=19H00 charaId=35 type=EVT_ACTION
+  [A]   Action n°9 [Au moulin]
