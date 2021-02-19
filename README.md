@@ -32,6 +32,9 @@ Ce script n'a pu être possible qu'en explorant les exécutables décompilés du
 
 Si malgré tout ça vous êtes encore perdus, une solution remarquablement bien rédigée est présente sur la page https://www.oldies-but-goodies.fr/index.php?page=test&id=53 (en bas).
 
+## Bonus
+Si vous avez fini le jeu ou si vous n'avez pas peur d'**énormes spoilers**, j'ai renseigné les [réponses au questionnaire final](RéponsesQuestionnaire.txt) dans un fichier.
+
 ## Help ! Questions
 Il y a encore des détails qui me chiffonnent et auxquels, sauf erreur de ma part, cet unpacking ne donne pas de réponse :
 * Quelle est la réponse à la question finale "Où a été pris l'indice 1 ?", et comment peut-on la trouver ?
