@@ -138,11 +138,11 @@ for evt in events:
     if evt[5] in ("EVT_OBJECT", "EVT_DESCRIPTION") and evt[6] in strings:
         print_detail(evt[5], strings[evt[6]])
     elif evt[5] == "EVT_CONVERSATION":
-        with open(CONVFILE.format(evt[6]), 'r') as fp:
-            conversation = fp.readlines()[0]
+        with open(CONVFILE.format(evt[6]), 'rb') as fp:
+            conversation = [b for b in fp.read()]
 
-        end_conv = conversation.index(chr(0), 5)
-        conversation = ''.join(convert_accents(c) for c in conversation[5:end_conv])
+        end_conv = conversation.index(0x00, 5)
+        conversation = ''.join(convert_accents(chr(c)) for c in conversation[5:end_conv])
 
         print_detail(evt[5], conversation)
     else:  # EVT_ACTION
